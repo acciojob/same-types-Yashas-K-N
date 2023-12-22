@@ -4,7 +4,7 @@ function isSameType(value1, value2) {
 		if (typeof value1 == typeof value2){
 			output = true;
 		}
-		return output?"false":"true"
+		return output?"false":"true";
 	}
 }
 
